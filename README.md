@@ -19,7 +19,8 @@ No arquivo create_data.py está a criação das tabelas abaixo conforme teste na
 
 <br>
 
-| montadora | pais |
+| Montadora | País |
+|-----------|------|
 | Chevrolet | EUA  |
 | Volkswagen | Alemanha |
 | Renault | Franca |
