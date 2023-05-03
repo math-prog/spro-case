@@ -36,3 +36,5 @@ No arquivo sum_countries.js executa a agregação sumarizando a quantidade de ve
 <p align='center'>
     <img src = 'imgs/total_carros_paises.png'>
 </p>
+
+As agregações foram testadas no MongoDB Compass.
