@@ -17,6 +17,8 @@ No arquivo create_data.py está a criação das tabelas abaixo conforme teste na
 |Fiesta	| Vermelho | Ford |
 |City |	Preto |	Honda|
 
+<br>
+
 | montadora | pais |
 | Chevrolet | EUA  |
 | Volkswagen | Alemanha |
