@@ -17,6 +17,7 @@ No arquivo create_data.py estabelece a conexão com o banco de dados MongoDB, cr
 |Fiesta	| Vermelho | Ford |      
 |City |	Preto |	Honda|           
 
+<br>
 
 | Montadora | País |
 | :---:     | :---: |
