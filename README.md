@@ -34,5 +34,5 @@ No arquivo aggregate.js executa a agregação dos dados mostrando as informaçõ
 
 No arquivo sum_countries.js executa a agregação sumarizando a quantidade de veículos/montadora por país, conforme imagem abaixo:
 <p align='center'>
-    <img src = 'imgs/total_carros_paises.png'>
+    <img src = 'imgs/total_carros_paises_2.png'>
 </p>
