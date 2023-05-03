@@ -29,10 +29,10 @@ No arquivo create_data.py estabelece a conexão com o banco de dados MongoDB, cr
 
 No arquivo aggregate.js executa a agregação dos dados mostrando as informações conforme imagem abaixo:
 <p align='center'>
-    <img src = 'imgs/contagem_montadoras.png'>
+    <img src = 'imgs/contagem_montadoras_2.png'>
 </p>
 
 No arquivo sum_countries.js executa a agregação sumarizando a quantidade de veículos/montadora por país, conforme imagem abaixo:
 <p align='center'>
-    <img src = 'imgs/total_carros_paises_2.png'>
+    <img src = 'imgs/total_carros_paises.png'>
 </p>
