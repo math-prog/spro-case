@@ -9,6 +9,8 @@ O case trabalhado teve como objetivo testar as habilidades de criação de dataf
 
 No arquivo create_data.py estabelece a conexão com o banco de dados MongoDB, cria as tabelas abaixo e insere nas collections indicadas conforme orientações na pasta /docs. 
 
+<br>
+
 |Carro| Cor | Montadora |            
 | :---: | :---: | :---: |       
 |Onix |Prata | Chevrolet |       
